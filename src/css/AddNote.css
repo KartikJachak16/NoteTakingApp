@@ -1,0 +1,12 @@
+.addnotecss{
+    height: 5rem;
+    width: 5rem;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+}
+
+.symbol{
+    font-size: 2em;
+}

@@ -1,0 +1,16 @@
+.Logincontainer{
+    border: 1px soild lightgray;
+    position: absolute;
+    top: 30vh;
+    left: 38rem;
+    display: flex;
+    width: 20rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-link{
+    text-decoration: none;
+    font-size: smaller;
+    align-items: flex-end;
+}
